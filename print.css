@@ -1,0 +1,32 @@
+img[src*="/"] {
+    display: none !important; 
+}
+
+h1 {
+    color: firebrick !important;
+    animation: none !important;
+}
+
+p {
+    color: black !important;
+}
+
+.langName {
+    color: brown !important; 
+}
+
+li {
+    color: black !important;
+}
+
+.links {
+    display: none !important; 
+}
+
+.box1, .box2, .box3 {
+    display: none !important;
+}
+
+.main-image-border {
+    display: none !important;
+}
